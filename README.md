@@ -1,27 +1,17 @@
-<!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there stalker!</h3>
-
-<!-- Profile Views -->
 
 
+  <!-- My Skills Heading -->
+  <h2>My Skills:</h2>
 
 
+  
 
- <!-- About section -->
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=ableton,css,cloudflare,discord,flask,github,html,ai,instagram,js,nextjs,npm,pr,py,react,tailwind,vercel,vscode,wordpress,windows,ubuntu,photoshop,figma" />
 
----
-✨ I'm a developer from Norway!
+</div>
 
-# My Skills:
+  <!-- Animated Code GIF -->
 
-
-
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
-
-
-![My Skills](https://skillicons.dev/icons?i=ableton,css,cloudflare,discord,flask,github,html,ai,instagram,js,nextjs,npm,pr,py,react,tailwind,vercel,vscode,wordpress,windows,ubuntu,photoshop,figma,)
-
-
-
-
+  ✨ Frontend / Designer from Norway!
+  
