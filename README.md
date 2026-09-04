@@ -1,7 +1,7 @@
 
 
   <!-- My Skills Heading -->
-  <h2>My Skills:</h2>
+  <h2>Skills:</h2>
 
 
   
