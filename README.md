@@ -6,15 +6,17 @@
 
 Building modern web applications, digital experiences and infrastructure from Norway 🇳🇴
 
-<p>
-  <a href="https://github.com/doxybox">
-    <img src="https://img.shields.io/badge/GitHub-doxybox-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://dly.to/Yu7VPu8eM1O">
-    <img src="https://img.shields.io/badge/daily.dev-robinsalte-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=doxybox&style=for-the-badge&label=PROFILE+VIEWS&color=0ea5e9" alt="Profile views" />
-</p>
+<br>
+
+<a href="https://github.com/doxybox">
+  <img src="https://img.shields.io/badge/GitHub-doxybox-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://dly.to/Yu7VPu8eM1O">
+  <img src="https://img.shields.io/badge/daily.dev-robinsalte-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=doxybox&style=for-the-badge&label=PROFILE+VIEWS&color=0ea5e9" alt="Profile views" />
 
 </div>
 
@@ -22,23 +24,33 @@ Building modern web applications, digital experiences and infrastructure from No
 
 ## 👋 About me
 
-I'm an **AI-Assisted Full-Stack Developer** focused on building modern, fast and practical web applications.
+I'm an **AI-Assisted Full-Stack Developer** focused on building modern, practical and polished web applications.
 
-I work across the full development process — from frontend and UI/UX to APIs, backend functionality, deployment and infrastructure. My current workflow is centered around **Next.js, React, JavaScript/TypeScript and Tailwind CSS**, with AI used as an active development tool for prototyping, debugging, architecture and implementation.
+I work across the full development process — from frontend interfaces and user experience to backend functionality, APIs, deployment and infrastructure.
+
+My current workflow is centered around **Next.js, React, TypeScript, JavaScript and Tailwind CSS**, with AI integrated into the development process for architecture, prototyping, debugging, refactoring and implementation.
+
+I enjoy turning ideas into finished products and working on both the technical and visual side of a project.
 
 ```ts
 const robin = {
   location: "Norway 🇳🇴",
+
   role: "AI-Assisted Full-Stack Developer",
+
   focus: [
-    "Full-Stack Development",
     "Next.js",
+    "React",
+    "TypeScript",
+    "Full-Stack Development",
     "UI/UX",
     "Infrastructure",
     "Automation"
   ],
+
   workflow: "AI-assisted development",
-  philosophy: "Build it. Improve it. Ship it."
+
+  mindset: "Build it. Improve it. Ship it."
 };
 ```
 
@@ -55,11 +67,6 @@ const robin = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-
-### Backend & scripting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Infrastructure & deployment
 
@@ -82,22 +89,30 @@ const robin = {
 
 ## 🤖 AI-assisted development
 
-AI is part of my everyday development workflow — as a tool for moving faster while keeping control of the architecture, implementation and final result.
+AI is an active part of my everyday development workflow.
+
+I use it as a development tool to move faster, explore different approaches and improve the quality of the final result while still keeping control of the architecture, implementation and overall product.
+
+### I use AI for
 
 **Architecture** · **Prototyping** · **Debugging** · **Refactoring** · **Code Generation** · **Research** · **Problem Solving**
+
+AI doesn't replace the development process — it helps me make that process faster, more flexible and more efficient.
 
 ---
 
 ## 🛠️ What I build
 
-- Modern websites and web applications
-- Full-stack applications with Next.js
-- Responsive interfaces and UI/UX
-- Admin dashboards and internal tools
-- APIs and backend functionality
-- Deployment and infrastructure
-- Automation and developer tooling
-- AI-assisted development workflows
+- 🌐 Modern websites and web applications
+- ⚛️ Full-stack applications with Next.js
+- 🎨 Responsive interfaces and UI/UX
+- 🔐 Admin dashboards and internal tools
+- 🔌 APIs and backend functionality
+- ⚙️ Automation and development tools
+- ☁️ Deployment and web infrastructure
+- 🚀 Production-ready web projects
+- 🤖 AI-assisted development workflows
+- 💡 Digital products built from idea to deployment
 
 ---
 
@@ -105,12 +120,24 @@ AI is part of my everyday development workflow — as a tool for moving faster w
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=doxybox&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Robin's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxybox&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=doxybox&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  height="165"
+  alt="Robin's GitHub stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxybox&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+  height="165"
+  alt="Most used languages"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=doxybox&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img
+  src="https://streak-stats.demolab.com?user=doxybox&theme=transparent&hide_border=true"
+  alt="GitHub streak"
+/>
 
 </div>
 
@@ -120,19 +147,10 @@ AI is part of my everyday development workflow — as a tool for moving faster w
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=doxybox&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
-
-</div>
-
----
-
-## 📰 daily.dev
-
-<div align="center">
-
-<a href="https://dly.to/Yu7VPu8eM1O">
-  <img src="https://img.shields.io/badge/Open_my-daily.dev_profile-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Robin Salte on daily.dev" />
-</a>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=doxybox&theme=github-compact&hide_border=true&area=true"
+  alt="Contribution graph"
+/>
 
 </div>
 
@@ -143,18 +161,63 @@ AI is part of my everyday development workflow — as a tool for moving faster w
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doxybox/doxybox/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doxybox/doxybox/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/doxybox/doxybox/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/doxybox/doxybox/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/doxybox/doxybox/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/doxybox/doxybox/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
 
 ---
 
+## 📰 daily.dev
+
+<div align="center">
+
+<a href="https://dly.to/Yu7VPu8eM1O">
+  <img
+    src="https://img.shields.io/badge/Follow%20me%20on-daily.dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white"
+    alt="daily.dev"
+  />
+</a>
+
+<br><br>
+
+I use daily.dev to keep up with development, new technologies, tools and ideas across the web development ecosystem.
+
+</div>
+
+---
+
+## 💭 Currently
+
+```text
+⚡ Building with Next.js
+🤖 Using AI as part of the development workflow
+🎨 Working across both code and design
+☁️ Deploying with Vercel & Cloudflare
+🧪 Experimenting with new tools and ideas
+🚀 Always building something
+```
+
+---
+
 <div align="center">
 
 ### Build things that are useful. Make them look good. Ship them.
+
+<br>
 
 <sub>Thanks for visiting my profile 👋</sub>
 
