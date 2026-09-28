@@ -122,6 +122,7 @@ AI doesn't replace the development process — it helps me make that process fas
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doxybox&theme=github_dark"
+  width="100%"
   alt="Robin's GitHub profile details"
 />
 
@@ -129,13 +130,12 @@ AI doesn't replace the development process — it helps me make that process fas
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doxybox&theme=github_dark"
-  height="170"
+  width="49%"
   alt="GitHub stats"
 />
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doxybox&theme=github_dark"
-  height="170"
+  width="49%"
   alt="Repositories per language"
 />
 
@@ -143,13 +143,12 @@ AI doesn't replace the development process — it helps me make that process fas
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doxybox&theme=github_dark"
-  height="170"
+  width="49%"
   alt="Most used languages by commits"
 />
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doxybox&theme=github_dark&utcOffset=2"
-  height="170"
+  width="49%"
   alt="Productive time"
 />
 
@@ -157,6 +156,7 @@ AI doesn't replace the development process — it helps me make that process fas
 
 <img
   src="https://streak-stats.demolab.com?user=doxybox&theme=github-dark-blue&hide_border=true"
+  width="100%"
   alt="GitHub streak"
 />
 
