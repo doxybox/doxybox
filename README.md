@@ -121,35 +121,43 @@ AI doesn't replace the development process — it helps me make that process fas
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=doxybox&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-  height="165"
-  alt="Robin's GitHub stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxybox&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-  height="165"
-  alt="Most used languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doxybox&theme=github_dark"
+  alt="Robin's GitHub profile details"
 />
 
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com?user=doxybox&theme=transparent&hide_border=true"
-  alt="GitHub streak"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doxybox&theme=github_dark"
+  height="170"
+  alt="GitHub stats"
 />
 
-</div>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doxybox&theme=github_dark"
+  height="170"
+  alt="Repositories per language"
+/>
 
----
-
-## 📈 Contribution activity
-
-<div align="center">
+<br><br>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=doxybox&theme=github-compact&hide_border=true&area=true"
-  alt="Contribution graph"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doxybox&theme=github_dark"
+  height="170"
+  alt="Most used languages by commits"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doxybox&theme=github_dark&utcOffset=2"
+  height="170"
+  alt="Productive time"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=doxybox&theme=github-dark-blue&hide_border=true"
+  alt="GitHub streak"
 />
 
 </div>
