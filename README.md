@@ -160,6 +160,10 @@ AI doesn't replace the development process — it helps me make that process fas
   alt="GitHub streak"
 />
 
+<p>
+  <a href="https://github.com/doxybox#js-contribution-activity">View my contribution activity on GitHub</a>
+</p>
+
 </div>
 
 ---
