@@ -116,6 +116,14 @@ AI doesn't replace the development process — it helps me make that process fas
 
 ---
 
+## 🔧 Open source tools
+
+### [Node TLS Check](https://github.com/doxybox/node-tls-check)
+
+A dependency-free command-line tool for comparing HTTPS certificate handling in Node's `https.get()` and `fetch()`. Includes JSON output, configurable timeouts and tests for certificate trust, redirects and HTTP errors.
+
+---
+
 ## 📊 GitHub stats
 
 <div align="center">
