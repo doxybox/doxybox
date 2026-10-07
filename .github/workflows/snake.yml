@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake-output
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
